@@ -4,7 +4,7 @@ title: Controlo dos factores de risco
 permalink: enfarte-controlo-dos-factores-de-risco.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Como já se disse ao tratar dos factores de risco da doença coronária, existe uma clara relação entre o aparecimento da doença e a presença de factores de risco. Além disso, a possibilidade de adquirir a doença é tanto maior quanto maior seja o número de factores de risco presentes.
 
@@ -12,7 +12,7 @@ Os mais importantes são a hipercolesterolemia, o consumo de tabaco, a hipertens
 
 No tratamento a longo prazo da doença coronária é de vital importância o controlo dos diversos factores de risco, já que isso evitará em grande medida a progressão da mesma.
 
-##hipercolesterolemia
+## hipercolesterolemia
 O controlo dos níveis de colesterol acima do normal deve levar-se a cabo em todos os casos e pode realizar-se mediante tratamento dietético e tratamento farmacológico (medicamentos), assim como com tratamentos especiais. O ideal seria conseguir níveis de colesterol inferiores a 220 mg/dl, e esta irá ser a meta do tratamento.
 Outro ponto importante do tratamento será conseguir níveis baixos de colesterol LDL e altos de colesterol HDL, já que este último possui um efeito protector para a doença que nos ocupa.
 
@@ -36,7 +36,7 @@ As combinações mais úteis destes medi­camentos são:
 - Ácido nicotínico mais clorofibrato, já que este último, posto diminua as quantidades totais de colesterol, pode não modificar ou inclusivamente aumentar as cifras de colesterol LDL. Este indesejável efeito é travado pelo ácido nicotínico.
 Por último, será necessário acrescentar que nos casos de hipercolesterolemia graves existem dois tipos de tratamentos: a diálise de colesterol LDL mediante filtragem extra­corpórea do sangue e a extirpação parcial de um segmento do intestino (íleo); este último processo produz efeitos secundários impor­tantes.
 
-##tabagismo
+## tabagismo
 O mais importante para deixar de fumar é conhecer os efeitos nocivos do tabaco. Portanto, começaremos por considerar que o risco de sofrer um enfarte de miocárdio num fumador é duplo do de um não fumador. Este risco é, além disso, potenciado pela existência de outros factores. Após um enfarte de miocárdio, a taxa mortal é cinco vezes maior nos fumadores do que nos não fumadores.
 
 Fumar charuto, cachimbo ou cigarros de pouco teor de nicotina e alcatrão comporta o mesmo risco, especialmente em antigos fuma­dores de cigarros.
@@ -50,7 +50,7 @@ Outra condição importante é existir apoio moral por parte de familiares e ami
 
 Em vista disso, é conveniente a adopção de medidas dietéticas e, se for necessário, o auxílio de um psicólogo. Normalmente estas medidas iniciam-se logo no período de inter­namento hospitalar.
 
-##hipertensão arterial
+## hipertensão arterial
 O tratamento adequado de hipertensão arterial no doente coronário diminui a frequência de morte e do enfarte do miocárdio em 50%.
 
 As medidas a tomar são em princípio de índole dietética:
@@ -64,24 +64,24 @@ Hipertensões não controláveis com as medi­das anteriormente descritas dever�
 
 É necessário esclarecer que tanto os nitratos como os antagonistas do cálcio utilizados amplamente no tratamento das manifestações da doença coronária contribuem para controlar a tensão arterial.
 
-##diabetes
+## diabetes
 A diabetes, ou aumento dos níveis de glicose no sangue, não constitui por si só um factor de risco de doença coronária. No entanto, demonstrou-se que esta doença poten­cia os efeitos nocivos dos demais factores de risco. Portanto, do ponto de vista da doença coronária, nos doentes diabéticos é urgente a eliminação dos demais factores de risco maiores (hipercolesterolemia, hipertensão arterial e tabagismo).
 
-##hiperuricemia
+## hiperuricemia
 A hiperuricemia é o aumento dos níveis de ácido úrico no sangue. Tal como a diabetes, o efeito nocivo sobre as coronárias deriva principalmente da coexistência de outros factores de risco coronário maiores.
 
 A hiperuricemia deve, primeiramente, tentar controlar-se com dieta e, se isso não for possível, há actualmente medicamentos diminuindo as concentrações de ácido úrico no sangue.
 
-##obesidade
+## obesidade
 A obesidade ou aumento de peso considera­-se um factor de risco indirecto, pois costuma basear-se numa dieta incorrecta e no seden­tarismo, factores determinando o aparecimento de hipercolesterolemia, hipertensão arterial, diabetes e hiperuricemia.
 Para a controlar, as medidas a ter em conta são dieta e exercício físico.
 
-##sedentarismo
+## sedentarismo
 O sedentarismo é a falta de actividade física regular. Muitos estudos demonstram que as pessoas realizando exercício físico regular têm menos incidência de morte por enfarte do miocárdio. Quer dizer, manter um exercício físico continuado é uma protecção contra o enfarte. Além disso, melhora a capacidade e rendimento físico em doentes com angina de peito e diminui a frequência do aparecimento de um novo enfarte.
 
 O doente sofrendo doença coronária em qualquer das suas manifestações encontra-se no momento da alta hospitalar totalmente desamparado, com uma limitação importante da sua actividade laboral, da sua vida social e sexual e com um alto índice de mortalidade e imobilidade. Quer dizer, as suas expectativas de futuro são altamente desanimadoras.
 
-##exercício fisico
+## exercício fisico
 Estudos realizados em centros de reabili­tação cardíaca demonstraram que com progra­mas adequados e individualizados de exercício físico aumenta a sobrevivência em 50%. A qualidade de vida também experimenta melhoras, já que numa grande percentagem de casos se restabelece a actividade física, laboral e sexual habitual.
 O exercício físico actua sobre os factores de risco de doença coronária de forma benéfica e, além disso, aumenta a capacidade de rendi­mento físico destes doentes. Diminui o coles­terol, a tensão arterial e o consumo do tabaco e exerce ainda um certo efeito anticoagulante, evitando o aparecimento de tromboses.
 Em resumo, os pacientes sofrendo enfarte de miocárdio, angina de peito, factores de risco de doença coronária (hipertensos, diabéticos, hipercolesterolémicos, fumadores, obesos) e pacientes pós-operados de cirurgia cardíaca devem submeter-se a um programa <em>supervisado por cardiologistas </em>de exercício físico.

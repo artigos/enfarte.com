@@ -4,7 +4,7 @@ title: Psicoterapia
 permalink: enfarte-psicoterapia.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 A psicoterapia utiliza-se no contexto da doença coronária para combater tanto o factor de risco que por si próprio supõe o <em>stress </em>psicossocial como o trauma proveniente de se ter sofrido um enfarte do miocárdio ou uma angina de peito.
 O <em>stress </em>psicossocial considera-se um fac­tor de risco da doença coronária. Esta quali­ficação foi muito controvertida, mas verificou­-se existirem os seguintes factores psicossociais de risco:

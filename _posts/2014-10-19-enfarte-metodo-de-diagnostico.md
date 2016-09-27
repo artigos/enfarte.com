@@ -4,7 +4,7 @@ title: Método de diagnóstico
 permalink: enfarte-metodo-de-diagnostico.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Perante um doente de quem se suspeita poder ser portador de uma doença coronária, dispõe-se actualmente de uma série de méto­dos diagnósticos permitindo ao médico con­firmar ou desmentir essa doença.De entre os métodos diagnósticos importa destacar dois fundamentais: o electrocardiograma e as análises de sangue.
 <h2><strong>electrocardiograma - generalidades</strong></h2>

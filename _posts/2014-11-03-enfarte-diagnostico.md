@@ -4,7 +4,7 @@ title: Diagnóstico do Enfarte
 permalink: enfarte-diagnostico.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 ![Diagnóstico ao Enfarte]({{ site.url }}/assets/enfarte-diagnostico.jpg)
 

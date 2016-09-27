@@ -4,7 +4,7 @@ title: Evolução da doença coronária
 permalink: enfarte-evolucao-da-doenca-coronaria.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 <h2><strong>evolução do enfarte de miocárdio</strong></h2>
 A possível evolução de um determinado paciente após ter sofrido um enfarte de miocárdio é muito variável. Esta variabilidade é basicamente determinada por dois factores:

@@ -4,7 +4,7 @@ title: Complicações do Enfarte
 permalink: enfarte-complicacoes.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 ![Complicações do Enfarte]({{ site.url }}/assets/enfarte-complicacoes.jpg)
 

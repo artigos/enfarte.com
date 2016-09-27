@@ -4,11 +4,11 @@ title: Complicações do enfarte do miocárdio
 permalink: enfarte-complicacoes-do-enfarte-do-miocardio.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Aproximadamente metade dos pacientes internados nas unidades coronárias apresentam uma evolução sem complicações e, quando estas surgem, tal tem lugar nas primeiras horas após o início do enfarte.
 Estas complicações podem ser muito graves e, portanto, é necessário serem diagnosticadas precocemente para se iniciar com a máxima rapidez possível o tratamento adequado).
-##arritmias
+## arritmias
 As arritmias são alterações do ritmo cardíaco e podem caracterizar-se por serem rápidas ou lentas. As arritmias rápidas ou taquiarritmias caracterizam-se por o coração funcionar mais depressa que habitualmente. Pelo contrário, as arritmias lentas ou bra­diarritmias caracterizam-se por o coração funcionar mais depressa que o normal. As arritmias eram as causadoras do maior número de mortes nas pessoas que tinham sofrido um enfarte, até aparecerem nos centros sanitários as unidades de cuidados coronários. Estas unidades dispõem actualmente de material e pessoal idóneos para solucionar estas com­plicações e muitas outras. Na unidade de cuidados coronários, o doente é controlado 24 horas por dia com um monitor registando todas as pulsações do seu coração, de forma que, se num dado momento aparecer uma arritmia, esta é imediatamente tratada.
 <h2><em>taquiarritmias</em></h2>
 O coração funciona mais depressa que o normal. Isto dá lugar paradoxalmente a uma descida da quantidade total de sangue expulsa pelo coração, pois, funcionando tão depressa, não tem tempo suficiente para encher-se de sangue antes de o expulsar para as artérias. Consoante a rapidez de funcionamento do coração, a pessoa sentir-se-á desde enjoada até chegar inc1usivamente a perder o conhe­cimento, devido a não chegar ao cérebro sangue suficiente.
@@ -62,7 +62,7 @@ Nos casos de bloqueios auriculoventricula­res avançados é necessário colocar
 Figura 29</strong>. <em>Arritmia: bloqueio de ramo.</em>
 
 Os bloqueios de ramo ou fasciculares só necessitam de <em>pace-makers </em>quando pelo menos dois fascículos forem afectados.
-##insuficiência cardíaca
+## insuficiência cardíaca
 A insuficiência cardíaca pode manifestar­se de diversas formas. A manifestação mais grave é o chamado edema agudo do pulmão. Se voltarmos ao esquema dedicado à circulação do sangue, recor­daremos que o que chega ao coração pro­cedente dos pulmões é recolhido e expulso pelo ventrículo esquerdo. Se estes perdem força devido ao enfarte, o sangue atingindo o coração não será expulso acumulando-se nos pulmões. Assim se produz o edema agudo do pulmão (figura 30).
 
 ![Complicações do enfarte do miocárdio]({{ site.url }}/assets/enfarte-complicacoes-do-enfarte-do-miocardio_clip_image002_0010.gif)
@@ -72,33 +72,33 @@ Quando o ventrículo direito está afectado pelo enfarte, o sangue vindo da circ
 
 <strong>![Complicações do enfarte do miocárdio]({{ site.url }}/assets/enfarte-complicacoes-do-enfarte-do-miocardio_clip_image002_0011.gif)
 Figura 30</strong>. <em>Um caso de insuficiência cardíaca: edema agudo do pulmão. (AE: aurícula esquerda; VE: ventrículo esquerdo.)</em>
-##pericardite
+## pericardite
 Consiste na inflamação do pericárdio ou bolsa cobrindo exteriormente o coração. Manifesta-se por dor do tipo pungente no tórax, aumentando com a tosse e a respiração. Pode verificar-se alguma febre. Este tipo de doença não é perigoso, se for correctamente tratado com anti-inflamatórios.
-##choque cardiogénico
+## choque cardiogénico
 Ocorre quando o coração está tão afectado que não expulsa a quantidade suficiente de sangue para oxigenar todos os órgãos do nosso corpo, e tem lugar quando o enfarte danificar mais de 40% do músculo cardíaco ou mio­cárdio. Os sintomas são palidez, frio, trans­piração, enjoo e pouca urina. A tensão máxima está abaixo de 90 mm Hg.
 Este género de complicação deve tratar-se numa unidade de cuidados coronários e é muito grave.
-##rotura do miocárdio
+## rotura do miocárdio
 Esta complicação é quase sempre fatal e costuma dar-se no decurso da primeira semana após o enfarte de miocárdio. Este tipo de complicação é mais frequente nos doentes com tensão alta e nos idosos. Quando se verifica, há perda de conhecimento e a única pos­sibilidade de sobrevivência é a imediata intervenção cirúrgica.
-##rotura de um músculo papilar
+## rotura de um músculo papilar
 A válvula mitral é uma válvula unidi­reccional, impedindo a passagem do sangue do ventrículo esquerdo para os pulmões quando se contrai. Produzindo-se uma rotura do músculo papilar, a válvula funciona de forma defeituosa, deixando passar sangue para os pulmões em cada contracção ventricular esquerda. O resultado é a acumulação de sangue nos pulmões, produzindo-se um edema agudo de sangue nos pulmões. Manifesta-se com sensação brusca de falta de ar e de enjoo (figura 31).
 
 É uma complicação grave que deve ser operada de urgência.
 
 ![Complicações do enfarte do miocárdio]({{ site.url }}/assets/enfarte-complicacoes-do-enfarte-do-miocardio_clip_image002_0012.gif)
 <strong>Figura 31</strong>. <em>Rotura do músculo papilar. (AE: aurícula esquerda; VE: ventrículo esquerdo.)</em>
-##rotura do tabique interventricular
+## rotura do tabique interventricular
 Neste caso, rompe-se o miocárdio situado entre os dois ventrículos. Normalmente, a tensão é maior dentro do ventrículo esquerdo que no interior do direito. O resultado é que, por um imperativo das tensões, o sangue passa do ventrículo esquerdo para o direito, o que sobrecarrega a circulação pulmonar e produz um edema agudo do pulmão. Este tipo de complicação é muito grave e requer trata­mento cirúrgico de urgência.
-##tromboembolismo pulmonar
+## tromboembolismo pulmonar
 Um trombo é um coágulo de sangue e um embolismo é um trombo que após viajar pelo sangue fica encravado num vaso sanguíneo de calibre inferior ao seu.
 Este tipo de complicação não está direc­tamente relacionado com o enfarte, mas sim com o prolongado repouso na cama. Esta favorece a coagulação do sangue nas veias das pernas. Posteriormente, um fragmento destes trombos pode romper-se e ser transpor­tado à circulação pulmonar, produzindo um embolismo pulmonar. Neste caso, há risco de enfarte pulmonar.
 
 Os sintomas são dor no tórax, sensação de. falta de ar e, por vezes, expectoração tingida de sangue. Para evitar esta complicação, efectuam-se massagens e exercícios passivos das pernas e administra-se heparina, um anticoagulante.
-##angina de peito pós-enfarte
+## angina de peito pós-enfarte
 Após um enfarte de miocárdio, a zona necrosada não pode doer, dado que se encontra morta.
 Portanto, se aparece angina de peito após um enfarte de miocárdio, leva a pensar existirem, todavia, outros territórios correndo risco de sofrerem novo enfarte. Neste caso está indicado fazer-se uma coronariografia e intervenção cirúrgica de <em>by-pass </em>aortocoronário de carácter preventivo, já que um novo enfarte de miocárdio poderia ser fatal.
-##síndroma de dressler
+## síndroma de dressler
 Não é mais que uma pericardite (inflamação do pericárdio ou bolsa que envolve exte­riormente o coração) tardia, após um enfarte. Quando se produz um enfarte, certas subs­tâncias miocárdicas do interior das células são libertadas, no organismo. O sistema imunitário do doente não as reconhece como próprias e ataca-as, atacando também o pericárdio. Esta complicação não é grave, mas às vezes é de cura muito demorada, requerendo grandes doses de anti-inflamatórios.
-##formação de um aneurisma ventricular
+## formação de um aneurisma ventricular
 É uma complicação tardia do enfarte de miocárdio. Neste caso, a parede do miocárdio afectada pelo enfarte está muito debilitada e, portanto, dilata-se por vezes como consequência da tensão de sangue dentro do coração (figura 32).
 
 Duas complicações derivadas dos aneu­rismas são a formação de trombos no seu interior, pelo que é necessário tratamento a longo prazo com anticoagulantes e a perda de força em geral do coração, tomando-se necessária a intervenção cirúrgica.

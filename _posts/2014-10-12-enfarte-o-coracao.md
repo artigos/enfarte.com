@@ -4,7 +4,7 @@ title: O coração generalidades
 permalink: enfarte-o-coracao.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Antes de iniciar a descrição da doença coronária, quer dizer, da doença das artérias irrigando o coração, veremos como funciona e para o que serve.
 
@@ -20,7 +20,7 @@ Quando os ventrÍculos estão vazios, fecham-se as válvulas pulmonar e aórtica
 O coração possui, de dentro para fora, três invólucros: endocárdio, miocárdio e pericárdio. O invólucro que nos interessa é o miocárdio, quer dizer, o músculo do coração. O miocárdio é, pois, o que se contrai e relaxa de 60 a 90 vezes por minuto, realizando uma função de bombeamento do sangue.
 O endocárdio é o invólucro que cobre o interior das aurÍCulas e ventrÍCulos e o pericárdio é como uma bolsa abrindo exteriormente o coração.
 
-##funcionamento
+## funcionamento
 
 Para compreender o funcionamento do coração e da circulação, imaginemos por momentos que este órgão é uma bomba de duas câmaras que só permite a passagem de sangue num sentido devido à presença de umas válvulas unidireccionais. O sangue sai impelido com força através de um circuito fechado, de modo que volta de novo à bomba para ser novamente impelido. Assim, ao chegar ao coração, o sangue entra num compartimento chamado aurícula, atravessa a válvula auriculoventricular e chega ao ventrículo. Este é a verdadeira bomba impelindo o sangue através das artérias.
 A artéria principal saindo do coração denomina-se aorta, e a partir dela as artérias vão-se ramificando até atingirem um calibre mínimo. Os canais mais pequenos denominam-se capilares e deles absorvem as células o oxigénio do sangue. O resultado é que o sangue saindo dos capilares em direcção às veias perdeu uma boa quantidade de oxigénio, chegando nestas condições ao coração. Onde recebe o sangue oxigénio? Nos pulmões. Como? Necessitamos outro circuito de sangue passando pelos pulmões e interligado ao que já foi explicado. Este novo circuito é o pulmonar que requer a sua própria bomba impulsora (figura 2).
@@ -42,7 +42,7 @@ O sangue saindo dos capilares de todos os nossos órgãos (capilares sistémicos
 <strong>Que acontece se uma artéria é obstruída?</strong> O sangue por ela fluindo para uma determinada zona do nosso corpo deixa de circular, não chegando oxigénio à dita zona. Este conceito é muito importante na altura de compreender o enfarte do miocárdio (figura 4).
 Figura 4. Obstrução de uma artéria
 
-##breve percurso histórico
+## breve percurso histórico
 
 <strong>Em 1776</strong> Heberden descreveu pela primeira vez a angina de peito ante o colégio de médicos de Londres, sendo absolutamente válida ainda hoje a sua descrição, se bem naquela época não se conhecesse o mecanismo pelo qual aparecia este distúrbio, nem tão-pouco que órgão afectava.
 

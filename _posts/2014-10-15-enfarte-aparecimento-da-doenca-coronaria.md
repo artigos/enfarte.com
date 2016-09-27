@@ -4,7 +4,7 @@ title: Aparecimento da doença coronária
 permalink: enfarte-aparecimento-da-doenca-coronaria.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Existem dois grandes grupos de factores de risco. No primeiro, estão os factores de risco maiores, quer dizer, os que se relacionam com o aparecimento da doença em todas as investigações realizadas sobre o tema. No segundo, incluem-se os factores de risco de menor importância (quadros 1 e 2).
 <h1>factores de risco maiores</h1>

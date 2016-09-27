@@ -4,7 +4,7 @@ title: Descrição da doença coronária
 permalink: enfarte-descricao-da-doenca-coronaria.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Já sabemos que o coração é um músculo cuja função é impulsionar o sangue a todos os pontos do organismo através de uns canais denominados artérias. Graças a estas, o oxigénio penetrando no sangue através dos pulmões distribui-se por todo o corpo conforme as necessidades de cada órgão. O coração não é uma excepção a esta regra, e para o seu correcto funcionamento precisa de oxigénio.
 

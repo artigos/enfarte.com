@@ -4,7 +4,7 @@ title: Introdução
 permalink: introducao
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 ![Introdução ao Enfarte]({{ site.url }}/assets/enfarte.gif)
 

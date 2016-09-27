@@ -4,7 +4,7 @@ title: Frequência da doença coronária
 permalink: enfarte-frequencia-da-doenca-coronaria.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Os estudos investigando a frequência, distribuição, factores de risco e controlo da doença coronária iniciaram-se em 1945. __As conclusões mais interessantes são as seguintes__:
 

@@ -4,7 +4,7 @@ title: Glossário do Enfarte
 permalink: enfarte-glossario.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 __aneurisma:__ dilatação localizada da parede de um vaso sanguíneo e que pode afectar quer as artérias quer as veias.
 __aneurisma cardíaco sintomático:__ aneurisma que devido ao seu tamanho ou localização dá lugar a uma série de sintomas.

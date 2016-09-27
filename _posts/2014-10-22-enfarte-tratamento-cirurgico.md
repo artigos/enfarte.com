@@ -4,7 +4,7 @@ title: Tratamento cirúrgico
 permalink: enfarte-tratamento-cirurgico.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 ![Tratamento cirúrgico do Enfarte]({{ site.url }}/assets/enfarte-tratamemto-cirurgico_clip_image002.gif)
 

@@ -4,14 +4,14 @@ title: Causas da doença coronária
 permalink: enfarte-causas-da-doenca-coronaria.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##aterosclerose
+## aterosclerose
 
 A causa principal da doença é a aterosclerose que nada tem a ver com a arteriosclerose. Esta última consiste no endurecimento progressivo das artérias com a idade, processo que se poderá considerar normal. Pelo contrário, a aterosclerose consiste na formação de placas de ateroma, que não passam de depósitos de gorduras no interior das artérias. Estas placas provocam o estreitamento ou estenose das mesmas e, portanto, impedem total ou parcialmente a passagem do sangue através delas (figura 7). A consequência desta estenose das artérias por placas de ateroma será a falta de fluxo sanguíneo nos territórios regados por aquelas, podendo lesionar-se irreversivelmente essa zona (enfarte de miocárdio).
 Concluiremos dizendo que a aterosclerose é responsável em cerca de 95% de casos pela dotmça coronária.
 
-##outras causas
+## outras causas
 As outras causas de doença coronária menos importantes do ponto de vista de frequência do seu aparecimento são as que seguidamente se expõem.
 
 * __Espasmo coronário ou angina de Prinzmetal__: explicá-Ia-emos adiante, neste mesmo capítulo (ver pág. 43).

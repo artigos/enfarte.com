@@ -4,7 +4,7 @@ title: Tratamento médico
 permalink: enfarte-tratamento-medico.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Vamos explicar muito superficialmente como se tratam as seguintes doenças coronárias:
 <ul>

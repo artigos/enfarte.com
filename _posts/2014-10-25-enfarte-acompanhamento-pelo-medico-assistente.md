@@ -4,7 +4,7 @@ title: Acompanhamento pelo médico assistente
 permalink: enfarte-acompanhamento-pelo-medico-assistente.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 O médico assistente indicará os controlos periódicos do paciente no seu consultório, coordenará a sua actuação com a do cardio­logista e levará a cabo a prevenção primária e o diagnóstico precoce da doença coronária.
 

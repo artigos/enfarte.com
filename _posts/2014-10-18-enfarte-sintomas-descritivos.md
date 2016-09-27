@@ -4,11 +4,11 @@ title: Sintomas descritivos
 permalink: enfarte-sintomas-descritivos.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Os sintomas da doença coronária são às vezes difíceis de valorizar. Nalguns casos, outras doenças podem manifestar-se de igual modo, como uma hérnia no estômago ou uma inflamação das articulações existentes entre as costelas e o esterno. Noutros, a doença coronária pode manifestar-se de forma atípica, por exemplo, como uma indigestão.
 
-##sintomas da angina de peito
+## sintomas da angina de peito
 O sintoma principal é a dor torácica, ainda que no caso de pacientes diabéticos, idosos e doentes sob os efeitos do álcool, possa não ser assim.
 As características importantes de toda a dor são: localização, duração, irradiação, intensidade, qualidade, sintomas acompanhantes e fenómenos desencadeantes e atenuantes.
 Seguidamente, descreveremos cada um destes aspectos da dor.
@@ -33,7 +33,7 @@ Seguidamente, descreveremos cada um destes aspectos da dor.
 
 __Outros fenómenos__ aparecendo ao examinar-se um paciente em plena crise de angina de peito são o aumento de frequência cardíaca, o aumento da tensão arterial, ruídos cardíacos apagados durante a auscultação do tórax e alterações típicas do electrocardiograma (ECG) que se explicaram no capítulo referente a métodos diagnósticos. O exame do paciente nos períodos livres de dor pode ser absolutamente normal.
 
-##sintomas do enfarte de miocárdio
+## sintomas do enfarte de miocárdio
 A dor que aparece durante o enfarte de miocárdio é de características similares à da angina de peito, ainda que costume ser de maior duração, demorando trinta minutos a várias horas a desaparecer. Não abranda com o repouso nem com os medicamentos vasodilatadores. Como na angina de peito a dor é de intensidade variável: pode ser desde insuportável até leve formigueiro em ambos os braços ou inc1usivamente não apresentar sintomas nos casos de diabéticos, alcoólicos e idosos. Como no caso de angina de Prinzmetal, o enfarte pode aparecer em repouso.
 
 Outros sintomas podem ser: __sensação de falta de ar__ (dispneia), __sensação de morte iminente__,__ instabilidade na marcha__, __suor frio__, __pele pálida__ e__ debilidade generalizada importante__.
